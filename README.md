@@ -94,7 +94,3 @@ dotnet test
 
 \## Licença
 
-
-
-MIT
-
